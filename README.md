@@ -1,3 +1,5 @@
+# This repo is currently for issue tracking only!
+
 ![Logo](https://cdn.modrinth.com/data/cached_images/ecbba095c7841806ce272c902531ce3371eb26d4.png)
 
 ## Features:
